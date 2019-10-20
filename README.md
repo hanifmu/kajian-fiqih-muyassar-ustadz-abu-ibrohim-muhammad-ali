@@ -23,3 +23,8 @@ Dokumentasi kajian Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di Masjid
     + [Kajian #3](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_ketiga/01_03-3.mp3)
     + [Kajian #4](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_ketiga/01_03-4.mp3)
     + [Kajian #5](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_ketiga/01_03-5.mp3)
+
+  * [Bab Keempat: Siwak dan Sunnah-Sunnah Fitrah](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_pertama_thaharah/bab_keempat)
+    + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keempat/01_04-1.mp3)
+    + [Kajian #2](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keempat/01_04-2.mp3)
+    + [Kajian #3](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keempat/01_04-3.mp3)
