@@ -1,5 +1,6 @@
-# kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali
-Dokumentasi kajian Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di Masjid Namira Lamongan
+# Kajian Kitab Fiqih Muyassar - Ustadz Abu Ibrohim Muhammad Ali
+
+Dokumentasi kajian kitab Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di Masjid Namira Lamongan. Semua file audio kajian yang ada di repositori ini diambil dari channel telegram [@masjidnamira](https://t.me/MASJIDNAMIRA).
 
 ## Daftar Isi
 
@@ -36,3 +37,8 @@ Dokumentasi kajian Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di Masjid
     + [Kajian #4](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_kelima/01_05-4.MP3)
     + [Kajian #5](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_kelima/01_05-5.MP3)
     + [Kajian #6](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_kelima/01_05-6.MP3)
+
+  * [Bab Keenam: Mandi](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_pertama_thaharah/bab_keenam)
+    + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keenam/01_06-1.MP3)
+    + [Kajian #2](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keenam/01_06-2.MP3)
+    + [Kajian #3](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keenam/01_06-2.MP3)
