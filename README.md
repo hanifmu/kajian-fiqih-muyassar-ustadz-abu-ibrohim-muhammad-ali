@@ -42,3 +42,6 @@ Dokumentasi kajian kitab Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di 
     + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keenam/01_06-1.MP3)
     + [Kajian #2](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keenam/01_06-2.MP3)
     + [Kajian #3](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_keenam/01_06-2.MP3)
+
+  * [Bab Ketujuh: Tayammum](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_pertama_thaharah/bab_ketujuh)
+    + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_ketujuh/01_07-1.MP3)
