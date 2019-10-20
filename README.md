@@ -45,3 +45,6 @@ Dokumentasi kajian kitab Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di 
 
   * [Bab Ketujuh: Tayammum](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_pertama_thaharah/bab_ketujuh)
     + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_ketujuh/01_07-1.MP3)
+
+  * [Bab Kedelapan: Najis](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_pertama_thaharah/bab_kedelapan)
+    + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_kedelapan/01_08-1.MP3)
