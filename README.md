@@ -48,3 +48,4 @@ Dokumentasi kajian kitab Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di 
 
   * [Bab Kedelapan: Najis](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_pertama_thaharah/bab_kedelapan)
     + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_kedelapan/01_08-1.MP3)
+    + [Kajian #2](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_pertama_thaharah/bab_kedelapan/01_08-2.MP3)
