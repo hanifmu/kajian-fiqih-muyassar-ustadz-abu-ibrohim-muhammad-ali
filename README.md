@@ -53,3 +53,4 @@ Dokumentasi kajian kitab Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di 
   * [Bab 9: Haid dan Nifas](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_1_thaharah/bab_9)
     + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_1_thaharah/bab_9/01_09-1.MP3)
     + [Kajian #2](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_1_thaharah/bab_9/01_09-2.MP3)
+    + [Kajian #3](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_1_thaharah/bab_9/01_09-3.MP3)
