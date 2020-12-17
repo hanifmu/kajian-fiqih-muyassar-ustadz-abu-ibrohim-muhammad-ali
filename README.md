@@ -61,4 +61,4 @@ Dokumentasi kajian kitab Fiqih Muyassar oleh Ustadz Abu Ibrohim Muhammad Ali di 
     + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_2_sholat/bab_1/02_01-1.mp3)
 
   * [Bab 2: Adzan & Iqomah](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/tree/master/kitab_2_sholat/bab_2)
-    + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_2_sholat/bab_1/02_02-1.mp3)
+    + [Kajian #1](https://github.com/hanifmu/kajian-fiqih-muyassar-ustadz-abu-ibrohim-muhammad-ali/raw/master/kitab_2_sholat/bab_1/02_02-1.MP3)
